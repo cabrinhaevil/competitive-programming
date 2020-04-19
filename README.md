@@ -4,6 +4,8 @@
 ## Competitive programming stuffs
 Data structures and algorithms for competitive programming.
 
+:smile:
+
 
 ### Data Structures 
 1. - [x] [Fenwick tree](data_structure/bit.cpp)
